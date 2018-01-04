@@ -31,6 +31,7 @@ You could learn python, Go, Ruby or any language which you prefer.
 - Ruby
 - Java
 - C++
+- Javascript: https://hackernoon.com/the-top-javascript-trends-to-watch-in-2018-a8437dd94425
 - https://www.freecodecamp.org/challenges/next-challenge
 
 ## 4. Webapp
