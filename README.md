@@ -59,11 +59,13 @@ HTTP, REST API,
 - https://classroom.udacity.com/courses/ud036
 - https://classroom.udacity.com/courses/cs253
 - https://www.theodinproject.com/courses/web-development-101
-
+- https://hackr.io/ (many source)
 
 ## 7. Book
 
 ## . Algorithm and Data Structure
+- https://github.com/jwasham/coding-interview-university
+
 
 
 
