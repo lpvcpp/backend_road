@@ -73,3 +73,6 @@ HTTP, REST API,
 
 - Self taugh https://medium.freecodecamp.org/from-self-taught-coder-to-professional-backend-developer-my-long-winding-road-d8f7c428b637
 
+## Reference
+ - https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c
+
