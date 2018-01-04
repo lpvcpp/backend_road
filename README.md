@@ -38,7 +38,14 @@ You could learn python, Go, Ruby or any language which you prefer.
 - Build a web-app: https://www.youtube.com/watch?v=kIEn4LqAQlE
 - 
 ## 4. Database
-As a backend developer, you must be have a deep knowledge about Database.
+As a backend developer, you must be have a deep knowledge about Database and storage
+- SQL
+- NoSQL
+- Connect Database with your language
+- MySQL, MongoDB, PostgreSQL, etc...
+- Memory data stored : Redis, memcache
+- Web storage (session, cookie, cache in web browser)
+- Scale, maintain database, ACID
 
 ## 5. Network
 HTTP, REST API, 
@@ -55,6 +62,9 @@ HTTP, REST API,
 
 
 ## 7. Book
+
+## . Algorithm and Data Structure
+
 
 
 # New Features!
