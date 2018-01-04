@@ -43,11 +43,19 @@ HTTP, REST API,
 
 
 ## 6. Course online
-http://fullstack.hasura.io/
-https://bento.io/home
+- http://fullstack.hasura.io/
+- https://bento.io/home
+- https://classroom.udacity.com/courses/cs101
+- https://classroom.udacity.com/courses/ud171
+- https://classroom.udacity.com/courses/ud036
+- https://classroom.udacity.com/courses/cs253
+- https://www.theodinproject.com/courses/web-development-101
 
 
 ## 7. Book
 
 
 # New Features!
+
+- Self taugh https://medium.freecodecamp.org/from-self-taught-coder-to-professional-backend-developer-my-long-winding-road-d8f7c428b637
+
