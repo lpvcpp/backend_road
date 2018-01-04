@@ -1,4 +1,4 @@
-# A Backend Road
+ # A Backend Road
 (This is draft version)
 [![N|Solid](http://ddi-dev.com/uploads/media/news/0001/01/f2da1c598e2ff9bc29b229773a189d33d38e0252.jpeg)](http://ddi-dev.com/uploads/media/news/0001/01/f2da1c598e2ff9bc29b229773a189d33d38e0252.jpeg)
 (image source: Internet)
@@ -25,11 +25,13 @@ Hands-on development of automated tests using tools like Selenium, Appium, TestN
 
 ## 3. Programming language need for a backend software engineer
 You could learn python, Go, Ruby or any language which you prefer.
-For python: 
-For Go
-For Ruby
-For ...
-....
+
+- Python: 
+- Go
+- Ruby
+- Java
+- C++
+- https://www.freecodecamp.org/challenges/next-challenge
 
 ## 4. Webapp
 - Introduction to a web-app: https://www.youtube.com/watch?v=n5CQK1knRko
