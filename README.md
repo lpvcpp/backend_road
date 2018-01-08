@@ -26,7 +26,7 @@ Hands-on development of automated tests using tools like Selenium, Appium, TestN
 ## 3. Programming language need for a backend software engineer
 You could learn python, Go, Ruby or any language which you prefer.
 
-- Python: 
+- Python: You could find some best books for python via : https://medium.com/level-up-web/best-python-books-in-2017-b064dfac287
 - Go
 - Ruby
 - Java
