@@ -8,6 +8,11 @@ I write this post to help me summary about the everything I read/learn about bac
 ## 1. What is Backend?
 - A beginners guide to backend development: https://www.upwork.com/hiring/development/a-beginners-guide-to-back-end-development/
 This article will help you understand in a basic way.
+
+![front end work](https://content-static.upwork.com/blog/uploads/sites/3/2015/05/05110037/Front-end-dev1.png)
+![back end work](https://content-static.upwork.com/blog/uploads/sites/3/2015/05/05110024/Back-end-dev-logo.png)
+
+
 ## 2. Body knowledge for any Backend Software Engineer (BES)!
 ### 2.1. Roadmap
 
