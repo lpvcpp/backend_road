@@ -72,11 +72,12 @@ HTTP, REST API,
 
 ## 7. Book
 
-## . Algorithm and Data Structure
+## 8. Algorithm and Data Structure
 - https://github.com/jwasham/coding-interview-university
 
 
-
+## 9. How to train yourself?
+- Start a new project.
 
 # New Features!
 
