@@ -6,7 +6,8 @@
 I write this post to help me summary about the everything I read/learn about backend. Backend - this is big, very big field in IT industry. I have no idea about what is a backend developer (maybe you too or not). But btw, I hope this post will have a few point which are usefull for you!
 
 ## 1. What is Backend?
-
+- A beginners guide to backend development: https://www.upwork.com/hiring/development/a-beginners-guide-to-back-end-development/
+This article will help you understand in a basic way.
 ## 2. Body knowledge for any Backend Software Engineer (BES)!
 ### 2.1. Roadmap
 
