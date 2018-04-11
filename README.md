@@ -85,4 +85,6 @@ HTTP, REST API,
 
 ## Reference
  - https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c
+ 
+ $k_{1}$
 
